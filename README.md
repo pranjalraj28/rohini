@@ -62,16 +62,13 @@ This project is built using **Next.js**, **Node.js**, **Firebase**, and various 
 - **Analytics Dashboard**: View summarized analytics and insights about the patients, generated through AI algorithms to assist in rapid diagnosis.
 
 ## Screenshots
-_Include screenshots showing the interface and functionality._
+<img width="1215" alt="Screenshot 2024-09-13 at 12 05 28 AM" src="https://github.com/user-attachments/assets/08594ff0-29a1-40c6-9527-0ae5255a4c08">
+<img width="1207" alt="Screenshot 2024-09-13 at 12 05 37 AM" src="https://github.com/user-attachments/assets/7619391b-1215-4b05-bd42-be35e6810671">
 
-### Location Selection Page
-![Location Selection](./screenshots/location-selection.png)
+<img width="1260" alt="Screenshot 2024-09-13 at 12 06 00 AM" src="https://github.com/user-attachments/assets/e064f650-ee8f-4478-9fc7-474bd19f03fe">
+<img width="1137" alt="Screenshot 2024-09-13 at 12 06 12 AM" src="https://github.com/user-attachments/assets/63bcb1f1-bf8b-4905-b96e-07461c7a7227">
 
-### Add Patient Form
-![Add Patient Form](./screenshots/add-patient-form.png)
-
-### Analytics Dashboard
-![Analytics Dashboard](./screenshots/analytics-dashboard.png)
+<img width="1138" alt="Screenshot 2024-09-13 at 12 06 34 AM" src="https://github.com/user-attachments/assets/32c6ad1c-6681-4239-a6cb-6946c9d8cee0">
 
 ## Libraries Used
 - **Next.js**: Server-side rendering and static site generation.
